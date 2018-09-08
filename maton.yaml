@@ -1,0 +1,12 @@
+maton:
+  origin: "0"
+  learn: "accept-all"
+  priotiry:
+    - "yaml-rule"
+  yaml-rule:
+    - "こんにちは" : "こんにちは!"
+
+signature:
+  public-key: "fjaioewjfoijflkaskdfaiuewfhoajflsdjfklasjdfiawefoaiwfp"
+  sign: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
